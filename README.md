@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ai student at Egyptian Russian University<br>- I'm currently working on "AI & Machine Learning projects"<br>- I'm looking to collaborate on "open source AI projects"<br>- I'm looking for help with "the latest AI research and trends"<br>- I'm currently learning "Generative AI & Advanced Deep Learning"<br>- Ask me about "Python, Computer Vision, NLP & Machine Learning"<br>- Fun fact "I turn complex data into intelligent real-world solutions!"
+Ai student at Egyptian Russian University<br>- I'm currently working on "AI & Machine Learning projects"<br>- I'm looking to collaborate on "open source AI projects"<br>- I'm looking for help with "the latest AI research and trends"<br>- I'm currently learning "Generative AI & Advanced Deep Learning"<br>- Fun fact "I turn complex data into intelligent real-world solutions!"
 
 
 ## 🌐 Socials:
